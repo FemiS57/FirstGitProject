@@ -14,6 +14,13 @@ public class Characters {
 	private void Azriel() {
 		System.out.println("Azriel the Shadowwarrior of Nightcourt ");
 	}
+	private void feyre() {
+		System.out.println("feyre the High Lady of Nightcourt ");
+	}
+	private void jude() {
+		System.out.println("jude the High queen  of Elfhame");
+	}
+
 
 	
 	
