@@ -14,6 +14,15 @@ public class Characters {
 	private void Azriel() {
 		System.out.println("Azriel the Shadowwarrior of Nightcourt ");
 	}
+	private void Atlas() {
+		System.out.println("Azriel the Shadowwarrior of Nightcourt ");
+	}
+	private void Alex() {
+		System.out.println("Azriel the Shadowwarrior of Nightcourt ");
+	}
+	private void Jhon() {
+		System.out.println("Azriel the Shadowwarrior of Nightcourt ");
+	}
 
 	
 	
